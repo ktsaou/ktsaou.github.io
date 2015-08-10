@@ -1,0 +1,2 @@
+Sitemap: http://ktsaou.github.io/blocklist-ipsets/sitemap.xml
+User-agent: *
